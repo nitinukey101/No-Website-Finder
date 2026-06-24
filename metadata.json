@@ -1,0 +1,6 @@
+{
+  "name": "No Website Business Finder",
+  "description": "Find local businesses that do not have a website and calculate an Opportunity Score to identify high-value lead opportunities.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
